@@ -1,0 +1,51 @@
+.home .type {
+	background: #fff;
+	padding-top: 10px;
+}
+.home .type li {
+	float: left;
+	width: 20%;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.home .type li img {
+	width: 60%;
+	margin-bottom: 5px;
+}
+.home .type li a {
+	color: #666;
+	font-size: 12px;
+	text-decoration: none;
+}
+.home .ad {
+	margin: 10px auto;
+	background: #fff;
+}
+.home .ad li {
+	float: left;
+	width: 33.33333333%;
+	text-align: center;
+	padding-top: 10px;
+	border-right: 1px solid #ccc;
+	box-sizing: border-box;
+}
+.home .ad li:last-child {
+	border-right: none;
+}
+.home .ad li a {
+	text-decoration: none;
+	font-size: 14px;
+	color: #666;
+}
+.home .ad li h3 {
+	color: red;
+	font-size: 18px;
+	line-height: 28px;
+}
+.home .ad li p {
+	padding: 2px 0 5px;
+}
+.home .ad li img {
+	width: 50%;
+	margin: 5px auto 15px;
+}
